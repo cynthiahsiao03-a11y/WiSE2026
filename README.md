@@ -13,12 +13,12 @@ Additionally, I supported event logistics and execution, including coordinating 
 Through this experience, I developed strong skills in team leadership, stakeholder communication, sponsorship development, and large-scale event coordination, while contributing to an initiative focused on empowering the next generation of engineers.
 
 <br /> <h2>Skills Learnt/Utilized</h2>
-<b>Leadership & Team Management</b>
-<b>Stakeholder Communication</b>
-<b>Sponsorship Outreach & Partnership Development</b>
-<b>Event Planning & Coordination</b>
-<b>Google Sheets</b>
-<b>Excel</b>
+<b> Leadership & Team Management </b>
+<b> Stakeholder Communication </b>
+<b> Sponsorship Outreach & Partnership Development</b>
+<b> Event Planning & Coordination </b>
+<b> Google Sheets  </b>
+<b> Excel</b>
 <b>Canva</b>
 <b>PowerPoint</b>
 <b>Google Docs</b>
@@ -26,16 +26,16 @@ Through this experience, I developed strong skills in team leadership, stakehold
 <h2>Pictures:</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/A5bQZF7.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sqHcF6G.jpeg" height="80%" width="80%" alt="Image"/>
 <br />
 <br />
-<img src="https://i.imgur.com/bmcfyRY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f6pwTLp.jpeg" height="80%" width="80%" alt="Image"/>
 <br />
 <br />
-<img src="https://i.imgur.com/iH5Q3sz.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2QE6SkS.jpeg" height="80%" width="80%" alt="Image"/>
 <br />
 <br />
-<img src="https://i.imgur.com/JfwqrYw.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/98B99qc.jpeg" height="80%" width="80%" alt="Image"/>
 </p>
 
 <!--
