@@ -13,15 +13,15 @@ Additionally, I supported event logistics and execution, including coordinating 
 Through this experience, I developed strong skills in team leadership, stakeholder communication, sponsorship development, and large-scale event coordination, while contributing to an initiative focused on empowering the next generation of engineers.
 
 <br /> <h2>Skills Learnt/Utilized</h2>
-<b> Leadership & Team Management </b>
-<b> Stakeholder Communication </b>
-<b> Sponsorship Outreach & Partnership Development</b>
-<b> Event Planning & Coordination </b>
-<b> Google Sheets  </b>
-<b> Excel</b>
-<b>Canva</b>
-<b>PowerPoint</b>
-<b>Google Docs</b>
+- <b> Leadership & Team Management </b>
+- <b> Stakeholder Communication </b>
+- <b> Sponsorship Outreach & Partnership Development</b>
+- <b> Event Planning & Coordination </b>
+- <b> Google Sheets  </b>
+- <b> Excel</b>
+- <b>Canva</b>
+- <b>PowerPoint</b>
+- <b>Google Docs</b>
 
 <h2>Pictures:</h2>
 
