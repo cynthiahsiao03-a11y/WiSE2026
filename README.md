@@ -1,4 +1,4 @@
-<h1> WiSE 2026 Mentorship and Networking Night</h1> <h2>Description</h2>
+<h1> WiSE 2026 Mentorship Night</h1> <h2>Description</h2>
 
 WiSE (Women in Science and Engineering) is a student-led initiative dedicated to promoting equity, representation, and professional development opportunities for women and underrepresented groups in STEM. The organization fosters mentorship, builds community, and creates accessible networking spaces that empower students to thrive in technical fields.
 
